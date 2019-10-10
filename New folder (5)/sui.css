@@ -1,6 +1,6 @@
 body{
 	
-	background-color:skyblue;
+	background-color:#ccffff;
  color:black;
  
 }
@@ -23,6 +23,16 @@ font-size:54px;
 .gf{
 	font-size:33px;
 	font-family:roboto;
+}
+img{
+	float:left;
+	width:200px;
+	height:230px;;
+	margin-right:15px;
+}
+.dd{
+	font-family:bold;
+	font-size:20px;
 }
 q{
 	font-size:34px;
